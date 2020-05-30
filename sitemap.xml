@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2020/05/29/hello-world/</loc>
+    <loc>http://yoursite.com/posts/16107/</loc>
     
-    <lastmod>2020-05-29T14:08:46.098Z</lastmod>
+    <lastmod>2020-05-29T16:27:29.817Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/movies/index.html</loc>
+    
+    <lastmod>2020-05-29T16:12:57.293Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/books/index.html</loc>
+    
+    <lastmod>2020-05-29T16:12:18.446Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/bangumis/index.html</loc>
+    
+    <lastmod>2020-05-29T16:00:11.409Z</lastmod>
     
   </url>
   
